@@ -1,0 +1,8 @@
+{
+  "name": "Mobile Wallet",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "9985d3c6"
+}
